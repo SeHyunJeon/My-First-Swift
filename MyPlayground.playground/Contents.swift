@@ -24,3 +24,13 @@ var height = 177.6
 
 print("\(type(of: height))")
 
+var i:Int = 1
+
+if(i==2){
+    print("1")
+}
+else{
+    print("other")
+}
+
+let family = ["dog", "cat", "rabit", "cow"]
